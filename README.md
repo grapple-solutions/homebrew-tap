@@ -1,5 +1,5 @@
 # Command to install grapple-cli
 
 ```bash
-brew tap zahid-iqbal-alpha/homebrew-tap
-brew install  zahid-iqbal-alpha/homebrew-tap/grapple-cli
+brew tap grapple-solutions/homebrew-tap
+brew install grapple-solutions/homebrew-tap/grapple-test-cli
