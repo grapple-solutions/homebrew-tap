@@ -2,7 +2,7 @@ require "open-uri"
 require "json"
 require "digest"
 
-class GrappleCli < Formula
+class GrappleTestCli < Formula
   desc "Command-line interface for Grapple"
   homepage "https://github.com/grapple-solutions/grapple-cli"
 
