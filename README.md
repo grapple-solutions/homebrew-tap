@@ -3,6 +3,7 @@
 ```bash
 brew tap grapple-solution/homebrew-tap
 brew install grapple-solution/homebrew-tap/grapple-test-cli
+grpl-test
 ```
 
 To verify if intended version is installed. check following 
