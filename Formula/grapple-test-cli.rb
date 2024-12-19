@@ -10,9 +10,9 @@ class GrappleTestCli < Formula
 
   def install
     libexec.install Dir["*"]
-    bin.write_exec_script (libexec/"grpl")
+    bin.write_exec_script (libexec/"grpl-test")
   end
   test do
-    system "#{bin}/grpl", "--version"
+    system "#{bin}/grpl-test", "--version"
   end
 end
