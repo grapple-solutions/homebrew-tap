@@ -6,7 +6,7 @@ class GrappleTestCli < Formula
   desc "Command-line interface for Grapple"
   homepage "https://github.com/grapple-solutions/grapple-cli"
 
-  url "https://github.com/grapple-solutions/grapple-cli/archive/refs/tags/0.2.159-test.20241219041014.tar.gz"
+  url "https://github.com/grapple-solutions/grapple-cli/archive/refs/tags/0.2.159-test.20241219074035.tar.gz"
 
   def install
     libexec.install Dir["*"]
